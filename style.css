@@ -41,7 +41,7 @@ body{
   padding: 18px;
   font-size: 18px;
   font-family: calibri;
-  font-weight: 500;
+  font-weight: 700;
 }
 
 .titulonoticiadest{
@@ -50,5 +50,7 @@ body{
 }
 
 .titulonoticiadest h2{
-  
+  font-size: 30px;
+  font-family: calibri;
+  font-weight: 700;
 }
