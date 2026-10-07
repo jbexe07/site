@@ -96,12 +96,11 @@ body{
 }
 
 .link{
-  padding: 25px;
+  padding-top: 25px;
 }
 
 .link a{
   text-decoration:none;
-  padding: 25px;
 }
 
 .link a:hover{
