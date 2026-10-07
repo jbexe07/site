@@ -101,8 +101,8 @@ body{
 
 .link a{
   text-decoration:none;
-  color: #C0DAC1;
-  border: 3px solid #D30B12;
+  color: #010101;
+  border: 3px solid #010101;
 }
 
 .link a:hover{
