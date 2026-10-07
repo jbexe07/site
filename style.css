@@ -101,10 +101,10 @@ body{
 
 .link a{
   text-decoration:none;
-  color: #20BA70
+  color: #C0DAC1;
 }
 
 .link a:hover{
   text-decoration: underline;
-  color: #C0DAC1;
+  color: #D30B12;
 }
