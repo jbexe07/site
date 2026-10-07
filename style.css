@@ -17,13 +17,13 @@ body{
 .titulo h1{
   padding: 5px;
   margin: 0px;
-  font-size: 20px
+  font-size: 32px
 }
 
 .titulo p{
   padding: 5px;
   margin: 0px;
-  font-size: 15px
+  font-size: 22px
 }
 
 .navmenu{
@@ -37,5 +37,5 @@ body{
   text-decoration: none;
   color: #010101;
   padding: 14px;
-  font-size: 16px;
+  font-size: 18px;
 }
