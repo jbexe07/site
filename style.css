@@ -12,4 +12,9 @@ body{
 .titulo{
   color: #f1f1f1;
   background: #D30B12;
+  text-align: center;
+}
+.titulo p{
+  padding: 5px;
+  margin: 0px;
 }
