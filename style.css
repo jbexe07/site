@@ -6,9 +6,7 @@ body{
   padding: 0px;
   margin: 0px;
 }
-.header{
-  background: #D30B12;
-}
+
 .titulo{
   color: #f1f1f1;
   background: #D30B12;
@@ -18,4 +16,10 @@ body{
 .titulo p{
   padding: 5px;
   margin: 0px;
+}
+.navmenu{
+  text-align: center;
+  background: #C0DAC1
+  color: #010101;
+  padding: 7px;
 }
