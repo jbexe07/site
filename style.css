@@ -96,12 +96,12 @@ body{
 }
 
 .link{
-  text-align: center;
   padding-top: 15%;
 }
 
 .link a{
   text-decoration:none;
+  text-align: center;
 }
 
 .link a:hover{
