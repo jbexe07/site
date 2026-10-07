@@ -102,7 +102,7 @@ body{
 .link a{
   text-decoration:none;
   color: #C0DAC1;
-  border: solid;
+  border: 3px solid #D30B12;
 }
 
 .link a:hover{
