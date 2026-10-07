@@ -95,9 +95,13 @@ body{
   padding: 10px;
 }
 
+.link{
+  padding: 25px;
+}
+
 .link a{
   text-decoration:none;
-  padding-top: 15px;
+  padding: 25px;
 }
 
 .link a:hover{
