@@ -21,6 +21,8 @@ body{
 .navmenu{
   text-align: center;
   background: #C0DAC1;
+  padding-top: 7px;
+  padding-bottom: 7px;
 }
 
 .navmenu a{
