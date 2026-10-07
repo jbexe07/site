@@ -17,7 +17,8 @@ body{
   padding: 5px;
   margin: 0px;
 }
-.navmenu{
+
+.navmenu a{
   text-align: center;
   background: #C0DAC1
   color: #010101;
