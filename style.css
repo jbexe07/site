@@ -54,3 +54,7 @@ body{
   font-family: calibri;
   font-weight: 700;
 }
+
+.linha{
+  display: flex;
+}
