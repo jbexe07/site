@@ -18,8 +18,15 @@ body{
   margin: 0px;
 }
 
-.navmenu a{
+.navmenu{
   text-align: center;
+  background: #C0DAC1;
+  color: #010101;
+  padding: 7px;
+}
+
+.navmenu a{
+  text-decoration: none;
   background: #C0DAC1
   color: #010101;
   padding: 7px;
