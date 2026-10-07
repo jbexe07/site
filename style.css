@@ -46,9 +46,9 @@ body{
 
 .titulonoticiadest{
   display: flex;
+  text-align: center;
 }
 
 .titulonoticiadest h2{
-  text-align: center;
   
 }
