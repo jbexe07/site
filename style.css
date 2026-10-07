@@ -17,14 +17,14 @@ body{
 .titulo h1{
   padding: 5px;
   margin: 0px;
-  font-size: 32px
+  font-size: 32px;
   font-family: inter;
 }
 
 .titulo p{
   padding: 5px;
   margin: 0px;
-  font-size: 22px
+  font-size: 22px;
   font-family: jetbrains mono;
 }
 
@@ -41,5 +41,5 @@ body{
   padding: 18px;
   font-size: 18px;
   font-family: calibri;
-  font-weight: 300;
+  font-weight: 500;
 }
