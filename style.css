@@ -64,7 +64,9 @@ body{
   padding: 10px;
 }
 
-
+.imgmessi img{
+  width: 100%;
+}
 
 .textodest{
   width: 60%;
