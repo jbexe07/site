@@ -45,7 +45,7 @@ body{
 }
 
 .titulonoticiadest{
-  display: flex;
+  display: block;
   text-align: center;
 }
 
