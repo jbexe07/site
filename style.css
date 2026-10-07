@@ -64,7 +64,11 @@ body{
   padding: 10px;
 }
 
-.imgmessi img, .textodest h3 p{
+.textodest h3 p{
+  width: 100%;
+}
+
+.imgmessi img{
   width: 100%;
 }
 
