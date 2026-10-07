@@ -58,3 +58,15 @@ body{
 .linha{
   display: flex;
 }
+
+.imgmessi{
+  width: 40%;
+  padding: 10px;
+}
+
+
+
+.textodest{
+  width: 60%;
+  padding: 10px;
+}
