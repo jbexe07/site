@@ -43,3 +43,12 @@ body{
   font-family: calibri;
   font-weight: 500;
 }
+
+.titulonoticiadest{
+  display: flex;
+}
+
+.titulonoticiadest h2{
+  text-align: center;
+  
+}
