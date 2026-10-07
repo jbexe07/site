@@ -44,6 +44,11 @@ body{
   font-weight: 500;
 }
 
+.navmenu a:hover, .navmenu a.active{
+  text-decoration: underline;
+  color: #D30B12;
+}
+
 .titulonoticiadest{
   display: block;
   text-align: center;
