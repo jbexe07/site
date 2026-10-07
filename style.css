@@ -20,11 +20,11 @@ body{
 
 .navmenu{
   text-align: center;
+  background: #C0DAC1;
 }
 
 .navmenu a{
   text-decoration: none;
   color: #010101;
-  background: #C0DAC1;
   padding: 7px;
 }
