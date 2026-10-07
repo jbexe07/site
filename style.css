@@ -18,12 +18,14 @@ body{
   padding: 5px;
   margin: 0px;
   font-size: 32px
+  font-family: Arial
 }
 
 .titulo p{
   padding: 5px;
   margin: 0px;
   font-size: 22px
+  font-family: roboto;
 }
 
 .navmenu{
@@ -36,6 +38,7 @@ body{
 .navmenu a{
   text-decoration: none;
   color: #010101;
-  padding: 14px;
+  padding: 18px;
   font-size: 18px;
+  font-family: calibri;
 }
