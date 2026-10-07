@@ -66,11 +66,16 @@ body{
 
 .textodest h3{
   margin: 0px 0px 10px 0px;
+  font-size: 22px;
+  font-family: Tahoma;
+  text-align: justify
 }
 
 .textodest p{
-  margin: 0px;
   width: 100%;
+  font-size: 20px;
+  font-family: Segoe UI;
+  text-align: justify
 }
 
 .imgmessi img{
