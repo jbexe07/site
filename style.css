@@ -104,10 +104,12 @@ body{
   text-decoration:none;
   color: #010101;
   border: 3px solid #010101;
-  background: #056C5C;
+  background: #CCCCCC;
+  border-radius: 5px;
 }
 
 .link a:hover{
   text-decoration: underline;
   color: #D30B12;
+  background: #056C5C;
 }
