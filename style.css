@@ -135,15 +135,15 @@ body{
   font-family: calibri;
 }
 .notesportes, .noteconomia, .nottech{
-  margin:0px 25px 0px 25px;
+  margin:0px 10px 0px 10px;
   border: 2px solid #010101;
   width: 33%;
-  padding: 7px;
+  padding: 10px;
 }
 
 .titulop{
   text-align: center;
-  text-weight: 700;
+  font-weight: bold;
   font-family: Segoe UI;
   color: #010101;
   font-size: 18px;
