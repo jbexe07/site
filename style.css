@@ -165,12 +165,13 @@ footer{
 
 
 .dev{
-  padding: 5px;
+  padding: 10px;
   margin: 0px;
   text-align: center;
 }
 
 .dev p{
+  margin: 0px;
   padding: 0px;
   color: #010101;
   font-family: Segoe UI;
