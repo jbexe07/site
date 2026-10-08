@@ -138,5 +138,12 @@ body{
   margin:0px 25px 0px 25px;
   border: 2px solid #010101;
   width: 33%;
+  padding: 7px;
 }
 
+.titulop{
+  text-align: center;
+  text-weight: 500;
+  font-family: Segoe UI;
+  color: #010101;
+}
