@@ -135,7 +135,8 @@ body{
   font-family: calibri;
 }
 .notesportes, .noteconomia, .nottech{
-  padding: 25px;
+  padding:0px 25px 0px 25px;
   border: 2px solid #010101;
+  width: 33%;
 }
 
