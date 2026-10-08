@@ -53,6 +53,7 @@ footer{
 
 .navmenu a.active{
   text-decoration: underline overline;
+  color: #D30B12;
 }
 
 .navmenu a:hover{
