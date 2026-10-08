@@ -108,15 +108,16 @@ footer{
 }
 
 .textodestpag2{
-  padding: 10px;
+
 }
 
 .textodestpag2 p{
-  width: 100%;
+  padding: 50px;
+  width: 90%;
   margin: 0px;
   font-size: 18px;
   font-family: Segoe UI;
-  text-align: justify
+  text-align: center
 }
 
 .link{
