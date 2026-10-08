@@ -77,11 +77,6 @@ footer{
   padding: 10px;
 }
 
-.imgmessipag2{
-  width: 100%;
-  padding: 10px;
-}
-
 .textodest h3{
   margin: 0px 0px 10px 0px;
   font-size: 22px;
@@ -98,26 +93,14 @@ footer{
 }
 
 .imgmessi img{
-  width: auto;
+  width: 100%;
   height: auto;
+  display: block;
 }
 
 .textodest{
   width: 45%;
   padding: 10px;
-}
-
-.textodestpag2{
-
-}
-
-.textodestpag2 p{
-  padding: 50px;
-  width: 90%;
-  margin: 0px;
-  font-size: 18px;
-  font-family: Segoe UI;
-  text-align: center
 }
 
 .link{
@@ -221,6 +204,3 @@ footer{
   border-radius: 10px;
   border: 2px solid #010101;
 }
-
-
-  
