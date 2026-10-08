@@ -144,8 +144,16 @@ body{
 
 .titulop{
   text-align: center;
-  font-weight: 700;
+  font-weight: 500;
   font-family: Segoe UI;
   color: #010101;
   font-size: 18px;
 }
+
+.notesportes p, .noteconomia p, .nottech p{
+  text-align: justify;
+  font-family: arial;
+  color: #242424;
+  font-size: 15px;
+}  
+  
