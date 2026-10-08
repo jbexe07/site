@@ -171,8 +171,7 @@ footer{
 }
 
 .dev p{
-  margin: 0px;
-
+  padding: 0px;
   color: #010101;
   font-family: Segoe UI;
   font-size: 19px;
