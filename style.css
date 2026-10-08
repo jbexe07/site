@@ -184,5 +184,26 @@ footer{
 }
 
 
+.linkhome{
+  padding-top: 15%;
+}
+
+.linkhome a{
+  padding: 5px;
+  text-decoration:none;
+  color: #D30B12;
+  border: 2px solid #D30B12;
+  background: #C0DAC1;
+  border-radius: 10px;
+}
+
+.linkhome a:hover{
+  text-decoration: underline;
+  color: #C0DAC1;
+  background: #D30B12;
+  border-radius: 10px;
+  border: 2px solid #010101;
+}
+
 
   
