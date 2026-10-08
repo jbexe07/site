@@ -58,6 +58,7 @@ body{
   font-size: 26px;
   font-family: calibri;
   font-weight: 700;
+  text-decoration: #D30B12 underline dotted;
 }
 
 .linha{
@@ -74,7 +75,6 @@ body{
   font-size: 22px;
   font-family: Tahoma;
   text-align: justify;
-  text-decoration: #D30B12 wavy underline;
 }
 
 .textodest p{
@@ -122,5 +122,5 @@ body{
   font-family: Tahoma;
   font-size: 20px;
   padding-top: 25px;
-  text-decoration: #D30B12 wavy underline;
+  text-decoration: #D30B12 underline dotted;
 }
