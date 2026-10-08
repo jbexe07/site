@@ -159,14 +159,8 @@ body{
 
 }
 
-footer .dev{
-  text-align: center;
+footer {
   background: #C0DAC1;
-  color: #010101;
-  padding: 15px;
-  font-size: 18px;
-  font-family: Segoe UI;
-  font-weight: 500;
 }
 
   
