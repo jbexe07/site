@@ -98,9 +98,8 @@ footer{
 }
 
 .imgmessi img{
-  width: 100%;
+  width: auto;
   height: auto;
-  display: block;
 }
 
 .textodest{
@@ -113,6 +112,7 @@ footer{
 }
 
 .textodestpag2 p{
+  width: 100%;
   margin: 0px;
   font-size: 18px;
   font-family: Segoe UI;
