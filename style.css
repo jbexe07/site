@@ -51,7 +51,12 @@ footer{
   font-weight: 500;
 }
 
-.navmenu a:hover, .navmenu a.active{
+.navmenu a.active{
+  text-decoration: underline overline;
+  font-weight: 700;
+}
+
+.navmenu a:hover{
   text-decoration: underline;
   color: #D30B12;
 }
@@ -116,10 +121,6 @@ footer{
   border-radius: 10px;
 }
 
-.link a{
-  font-weight: 900;
-  text-decoration: underline overline;
-}
 
 .link a:hover{
   text-decoration: underline;
@@ -199,10 +200,6 @@ footer{
   text-align: center;
 }
 
-.linkhome a{
-  font-weight: 900;
-  text-decoration: underline overline;
-}
 
 .linkhome a:hover{
   text-decoration: underline;
