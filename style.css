@@ -61,6 +61,11 @@ footer{
   color: #D30B12;
 }
 
+.navmenu a:active{
+  text-decoration: underline overline;
+  color: #D30B12;
+}
+
 .titulonoticiadest{
   display: block;
   text-align: center;
