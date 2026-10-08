@@ -51,13 +51,13 @@ footer{
   font-weight: 500;
 }
 
-.navmenu a:active{
-  text-decoration: underline overline;
+.navmenu a:hover{
+  text-decoration: underline;
   color: #D30B12;
 }
 
-.navmenu a:hover{
-  text-decoration: underline;
+.navmenu a:active{
+  text-decoration: underline overline;
   color: #D30B12;
 }
 
