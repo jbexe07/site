@@ -214,10 +214,10 @@ footer{
 }
 
 .textodestpag2 h3{
-  margin: 0px 0px 10px 0px;
+  padding-top: 10px;
   font-size: 22px;
   font-family: Tahoma;
-  text-align: justify;
+  text-align: center;
 }
 
 .textodestpag2 p{
@@ -227,3 +227,5 @@ footer{
   font-family: Segoe UI;
   text-align: justify
 }
+
+
