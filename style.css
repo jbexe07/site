@@ -128,3 +128,9 @@ body{
 .noticias{
   display: flex;
 }
+
+.titulop{
+  text-decoration: center;
+  font-size: 18px;
+  font-family: calibri;
+}
