@@ -157,18 +157,15 @@ body{
   font-size: 15px;
 }  
 
-.footer{
-  text-align: center;
-  background: #C0DAC1;
-  padding: 7px 0px 7px 0px;
-}
 }
 
-.footer p{
+footer p{
+  text-align: center;
+  background: #C0DAC1;
   color: #010101;
   padding: 15px;
   font-size: 18px;
-  font-family: calibri;
+  font-family: Segoe UI;
   font-weight: 500;
 }
 
