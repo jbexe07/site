@@ -195,6 +195,7 @@ footer{
   border: 2px solid #D30B12;
   background: #C0DAC1;
   border-radius: 10px;
+  text-align: center;
 }
 
 .linkhome a:hover{
@@ -210,4 +211,19 @@ footer{
   display: block;
   margin-left: auto;
   margin-right: auto;
+}
+
+.textodestpag2 h3{
+  margin: 0px 0px 10px 0px;
+  font-size: 22px;
+  font-family: Tahoma;
+  text-align: justify;
+}
+
+.textodestpag2 p{
+  margin: 0px;
+  width: 100%;
+  font-size: 18px;
+  font-family: Segoe UI;
+  text-align: justify
 }
