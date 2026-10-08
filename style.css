@@ -78,6 +78,7 @@ footer{
 }
 
 .imgmessipag2{
+  width: 100%;
   padding: 10px;
 }
 
@@ -109,6 +110,13 @@ footer{
 
 .textodestpag2{
   padding: 10px;
+}
+
+.textodestpag2 p{
+  margin: 0px;
+  font-size: 18px;
+  font-family: Segoe UI;
+  text-align: justify
 }
 
 .link{
