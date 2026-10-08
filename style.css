@@ -7,6 +7,10 @@ body{
   margin: 0px;
 }
 
+footer{
+  background: #C0DAC1;
+}
+
 .titulo{
   color: #f1f1f1;
   background: #D30B12;
@@ -159,7 +163,7 @@ body{
 
 
 .dev{
-  background: #C0DAC1;
+  
 }
 
 .dev p{
