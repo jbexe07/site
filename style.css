@@ -157,10 +157,15 @@ body{
   font-size: 15px;
 }  
 
-}
 
-footer {
+.dev{
   background: #C0DAC1;
 }
+
+.dev p{
+  color: #010101;
+}
+
+
 
   
