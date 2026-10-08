@@ -112,4 +112,6 @@ body{
   text-decoration: underline;
   color: #C0DAC1;
   background: #D30B12;
+  border-radius: 10px;
+  border: 2px solid #C0DAC1;
 }
