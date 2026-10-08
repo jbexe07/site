@@ -73,7 +73,8 @@ body{
   margin: 0px 0px 10px 0px;
   font-size: 22px;
   font-family: Tahoma;
-  text-align: justify
+  text-align: justify;
+  text-decoration: #D30B12 wavy underline;
 }
 
 .textodest p{
