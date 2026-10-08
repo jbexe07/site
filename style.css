@@ -77,6 +77,10 @@ footer{
   padding: 10px;
 }
 
+.imgmessipag2{
+  padding: 10px;
+}
+
 .textodest h3{
   margin: 0px 0px 10px 0px;
   font-size: 22px;
@@ -100,6 +104,10 @@ footer{
 
 .textodest{
   width: 45%;
+  padding: 10px;
+}
+
+.textodestpag2{
   padding: 10px;
 }
 
