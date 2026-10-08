@@ -53,7 +53,6 @@ footer{
 
 .navmenu a.active{
   text-decoration: underline overline;
-  font-weight: 700;
 }
 
 .navmenu a:hover{
