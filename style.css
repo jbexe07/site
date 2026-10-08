@@ -142,6 +142,13 @@ body{
   padding: 3px 10px 10px 10px;
 }
 
+.notesportes p, .noteconomia p, .nottech p{
+  text-align: justify;
+  font-family: arial;
+  color: #242424;
+  font-size: 15px;
+}  
+
 .titulop{
   text-align: center;
   font-weight: 500;
@@ -149,11 +156,4 @@ body{
   color: #010101;
   font-size: 18px;
 }
-
-.notesportes p, .noteconomia p, .nottech p{
-  text-align: justify;
-  font-family: arial;
-  color: #242424;
-  font-size: 15px;
-}  
   
