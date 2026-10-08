@@ -124,3 +124,7 @@ body{
   padding-top: 25px;
   text-decoration: #D30B12 underline dotted;
 }
+
+.noticias{
+  display: flex;
+}
