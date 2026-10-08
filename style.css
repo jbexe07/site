@@ -165,13 +165,13 @@ footer{
 
 
 .dev{
-  
+  padding: 0px;
+  margin: 0px;
 }
 
 .dev p{
   color: #010101;
-  padding: 0px;
-  margin: 0px;
+  text-align: center;
 }
 
 
